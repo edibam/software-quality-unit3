@@ -3,4 +3,5 @@ LISTADO DE ALUMNOS
 Abel Garcia
 Daniel Coloma
 Javier Sánchez
+Jose Antonio Molins
 Pablo Hallado
