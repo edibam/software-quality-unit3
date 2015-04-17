@@ -3,6 +3,7 @@ LISTADO DE ALUMNOS
 Abel Garcia
 Daniel Coloma
 Javier Sánchez
+Javier Torrado
 Jose Antonio Molins
 Jose Ignacio Paraled
 Pablo Hallado
