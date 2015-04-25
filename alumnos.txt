@@ -3,6 +3,7 @@ LISTADO DE ALUMNOS
 Abel Garcia
 Carlos Cambra
 Daniel Coloma
+Ignacio Agudo Sancho
 Javier Sánchez
 Javier Torrado
 Jose Baltasar Couce Lopez
