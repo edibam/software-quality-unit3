@@ -1,0 +1,14 @@
+1- Me doy de alta en Github, me descargo el software para windows y lo instalo en mi equipo.
+2- En Github me voy al proyecto y selecciono "Folk" para tener una réplica.
+3- Ejecuto "git checkout -b JavierTorrado"
+4- Voy al directorio local, edito el fichero Alumnos.txt y añado mi nombre
+5- Ejecuto "git status" y "git diff" para comprobar el estado y los cambios
+6- Ejecuto "git add alumnos.txt"
+7- Ejecuto "git status" para comprobar el estado y los cambios
+8- Ejecuto el commit "git commit – m “Added Javier Torrado”"
+9- En Github.com creo el Pull request
+10-Y compruebo que el cambio está hecho en el fichero Alumnos.txt 
+11-Como hay conflictos, recibo pa petición de actualización del proyecto
+12-Para esta actualización utilizo la propia web de Github y edito directamente el fichero Alumnos.txt 
+13-Y añado Javier Torrado y pongo una descripción de la modificación
+14-Posteriormente creo el Pull Request y este ya si es validado
