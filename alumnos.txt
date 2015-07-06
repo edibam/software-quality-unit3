@@ -1,8 +1,9 @@
-LISTADO DE ALUMNOS
+﻿LISTADO DE ALUMNOS
 ==================
 Abel Garcia
 Carlos Cambra
 Daniel Coloma
+Eduardo Bayod
 Ignacio Agudo Sancho
 Javier Sánchez
 Javier Torrado
